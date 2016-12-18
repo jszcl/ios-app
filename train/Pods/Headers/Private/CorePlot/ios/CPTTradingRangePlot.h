@@ -1,0 +1,5 @@
+XSym
+0059
+1d88cc2f6f36359d3f317acf8c573544
+../../../../CorePlot/framework/Source/CPTTradingRangePlot.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

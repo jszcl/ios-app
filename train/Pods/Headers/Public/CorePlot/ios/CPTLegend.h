@@ -1,0 +1,5 @@
+XSym
+0049
+db2e88b1bf768fb08f19fd00e881c815
+../../../../CorePlot/framework/Source/CPTLegend.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

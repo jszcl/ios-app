@@ -1,0 +1,5 @@
+XSym
+0054
+1c83903eca1047d1ac9e248bc4ac93fe
+../../../../CorePlot/framework/Source/CPTDefinitions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

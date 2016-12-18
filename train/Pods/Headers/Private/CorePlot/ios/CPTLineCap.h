@@ -1,0 +1,5 @@
+XSym
+0050
+b919d07cbf337f110582827370f57602
+../../../../CorePlot/framework/Source/CPTLineCap.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

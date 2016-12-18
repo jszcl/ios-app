@@ -1,0 +1,5 @@
+XSym
+0057
+c458a1f727bf4430eb55b46fa361add4
+../../../../CorePlot/framework/Source/CPTDerivedXYGraph.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

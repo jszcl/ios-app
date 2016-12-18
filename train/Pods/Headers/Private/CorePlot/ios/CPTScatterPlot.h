@@ -1,0 +1,5 @@
+XSym
+0054
+f08e85fa3b2768b7c32c76495e63ff4c
+../../../../CorePlot/framework/Source/CPTScatterPlot.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

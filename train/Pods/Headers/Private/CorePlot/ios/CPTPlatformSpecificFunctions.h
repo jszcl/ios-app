@@ -1,0 +1,5 @@
+XSym
+0072
+df89814e8778d8e071fceb2507dff36b
+../../../../CorePlot/framework/iPhoneOnly/CPTPlatformSpecificFunctions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

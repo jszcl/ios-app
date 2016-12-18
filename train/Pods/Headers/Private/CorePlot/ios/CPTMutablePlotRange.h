@@ -1,0 +1,5 @@
+XSym
+0059
+7bc7475eedabbbc81ec32c6ec8c42cd9
+../../../../CorePlot/framework/Source/CPTMutablePlotRange.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

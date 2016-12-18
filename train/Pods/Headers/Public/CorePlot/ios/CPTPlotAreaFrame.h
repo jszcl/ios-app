@@ -1,0 +1,5 @@
+XSym
+0056
+da2fddfef6f5be135b800110f0179b7c
+../../../../CorePlot/framework/Source/CPTPlotAreaFrame.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

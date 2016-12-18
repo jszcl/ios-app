@@ -1,0 +1,5 @@
+XSym
+0066
+aea85e19628fe8ff522c2db2fb6b38af
+../../../../CorePlot/framework/Source/_CPTAnimationCGFloatPeriod.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

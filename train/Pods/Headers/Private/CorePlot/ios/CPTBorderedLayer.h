@@ -1,0 +1,5 @@
+XSym
+0056
+e422f9cb998874512c27cd4a03b1cc9d
+../../../../CorePlot/framework/Source/CPTBorderedLayer.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

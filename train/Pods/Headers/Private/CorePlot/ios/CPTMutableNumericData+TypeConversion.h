@@ -1,0 +1,5 @@
+XSym
+0076
+4d9bf103f05f5cd47d2a0489131b066e
+../../../../CorePlot/framework/Source/CPTMutableNumericData+TypeConversion.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

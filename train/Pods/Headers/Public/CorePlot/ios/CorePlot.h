@@ -1,0 +1,5 @@
+XSym
+0051
+936c822d60f2257b041bf81f49519ca8
+../../../../CorePlot/framework/CocoaPods/CorePlot.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

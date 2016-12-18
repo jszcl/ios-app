@@ -1,0 +1,5 @@
+XSym
+0065
+2388d31a98de0f4fe7ed169ecab35253
+../../../../CorePlot/framework/Source/NSDecimalNumberExtensions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

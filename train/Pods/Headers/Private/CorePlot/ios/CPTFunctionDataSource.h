@@ -1,0 +1,5 @@
+XSym
+0061
+fe6a3be24c6c5a2de9e13131b4873db3
+../../../../CorePlot/framework/Source/CPTFunctionDataSource.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

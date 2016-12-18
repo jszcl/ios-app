@@ -1,0 +1,5 @@
+XSym
+0052
+cf7fb385a72f0fe9a9fc42be3b7a95e5
+../../../../CorePlot/framework/CorePlot-CocoaTouch.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

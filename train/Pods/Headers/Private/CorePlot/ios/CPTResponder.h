@@ -1,0 +1,5 @@
+XSym
+0052
+a21783f56763f3fe8083c4ca11932696
+../../../../CorePlot/framework/Source/CPTResponder.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

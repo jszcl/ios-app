@@ -1,0 +1,5 @@
+XSym
+0068
+c9d8945e5c19c5c24b9dc54739d637c2
+../../../../CorePlot/framework/Source/_CPTAnimationNSDecimalPeriod.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

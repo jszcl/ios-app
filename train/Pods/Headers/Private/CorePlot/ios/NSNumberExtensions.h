@@ -1,0 +1,5 @@
+XSym
+0058
+e2d0a8b3336dd66349d263e3001d1cf3
+../../../../CorePlot/framework/Source/NSNumberExtensions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

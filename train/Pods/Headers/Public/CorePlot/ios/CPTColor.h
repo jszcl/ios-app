@@ -1,0 +1,5 @@
+XSym
+0048
+45ea55fcc24d9635f3a78cb05836006a
+../../../../CorePlot/framework/Source/CPTColor.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

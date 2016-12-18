@@ -1,0 +1,5 @@
+XSym
+0054
+8d1071252d1f931044b00452968b40a7
+../../../../CorePlot/framework/Source/CPTNumericData.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

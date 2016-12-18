@@ -1,0 +1,5 @@
+XSym
+0051
+012e28369df81b90ce2548ea0c12c033
+../../../../CorePlot/framework/Source/CPTGradient.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

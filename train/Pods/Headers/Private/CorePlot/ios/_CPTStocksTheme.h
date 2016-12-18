@@ -1,0 +1,5 @@
+XSym
+0055
+8a6741e440fae9914ecdeb90398ca2fb
+../../../../CorePlot/framework/Source/_CPTStocksTheme.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

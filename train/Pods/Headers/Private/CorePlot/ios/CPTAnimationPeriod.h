@@ -1,0 +1,5 @@
+XSym
+0058
+1b6eb1b3df9924e600b4b532ec728583
+../../../../CorePlot/framework/Source/CPTAnimationPeriod.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

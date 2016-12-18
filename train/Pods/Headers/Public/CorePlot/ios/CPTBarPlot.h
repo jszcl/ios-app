@@ -1,0 +1,5 @@
+XSym
+0050
+a6cd40d2e46cc1b6fcaf7e2811e42a96
+../../../../CorePlot/framework/Source/CPTBarPlot.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

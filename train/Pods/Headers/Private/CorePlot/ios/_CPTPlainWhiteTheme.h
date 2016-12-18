@@ -1,0 +1,5 @@
+XSym
+0059
+289d3011e41493197c0a377162861603
+../../../../CorePlot/framework/Source/_CPTPlainWhiteTheme.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

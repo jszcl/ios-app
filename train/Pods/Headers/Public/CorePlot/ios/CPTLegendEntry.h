@@ -1,0 +1,5 @@
+XSym
+0054
+d4ed64c9654271fa8b73ab2f71705cdf
+../../../../CorePlot/framework/Source/CPTLegendEntry.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

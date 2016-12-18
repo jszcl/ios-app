@@ -1,0 +1,5 @@
+XSym
+0052
+2f7d3f264b9f2004b0d0a1abaa8e0cc6
+../../../../CorePlot/framework/Source/CPTAnimation.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
